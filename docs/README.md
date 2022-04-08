@@ -38,22 +38,24 @@ permalink: /
 </div>
 
 ## Tweets from Indian Students
-### Geolocation
-
-<div align="center">
-<iframe width="873" height="537" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTUnYQEEYX8H4_9CCMvLbGa-55uSlt_F-Z8ChKTiATpraU6-zjmn2ijwgVX3f2Dx7u-Z0SECfAGc-xR/pubchart?oid=1592355022&amp;format=interactive"></iframe>
-</div>
-
 ### Relative Sentiments
 
 <div align="center">
-<iframe width="868" height="537" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTUnYQEEYX8H4_9CCMvLbGa-55uSlt_F-Z8ChKTiATpraU6-zjmn2ijwgVX3f2Dx7u-Z0SECfAGc-xR/pubchart?oid=1438445368&amp;format=interactive"></iframe>
+<iframe width="873" height="537" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTUnYQEEYX8H4_9CCMvLbGa-55uSlt_F-Z8ChKTiATpraU6-zjmn2ijwgVX3f2Dx7u-Z0SECfAGc-xR/pubchart?oid=1592355022&amp;format=interactive"></iframe>
 </div>
 
 **Relevance of an entity** - The number of times the entity (location, person, organization) has been mentioned per tweet
 **Relative Positive Sentiment** - The number of times the entity (location, person, organization) has been positively mentioned per tweet
 **Relative Negative Sentiment** - The number of times the entity (location, person, organization) has been negatively mentioned per tweet
 **Relative Sentiment of an Entity** - Relative Negative Sentiment/Relative Positive Sentiment
+
+
+### Geolocation
+
+<div align="center">
+<iframe width="868" height="537" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTUnYQEEYX8H4_9CCMvLbGa-55uSlt_F-Z8ChKTiATpraU6-zjmn2ijwgVX3f2Dx7u-Z0SECfAGc-xR/pubchart?oid=1438445368&amp;format=interactive"></iframe>
+</div>
+
 
 ## Team
 
