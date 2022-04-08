@@ -3,6 +3,8 @@ permalink: /
 ---
 # **Russia-Ukraine on Twitter**
 
+## Datasets
+
 ## Frequency
 ### Pro Russia Tweets
 
@@ -48,21 +50,21 @@ permalink: /
 <iframe width="868" height="537" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTUnYQEEYX8H4_9CCMvLbGa-55uSlt_F-Z8ChKTiATpraU6-zjmn2ijwgVX3f2Dx7u-Z0SECfAGc-xR/pubchart?oid=1438445368&amp;format=interactive"></iframe>
 </div>
 
-## About
+**Relevance of an entity** - The number of times the entity (location, person, organization) has been mentioned per tweet
+**Relative Positive Sentiment** - The number of times the entity (location, person, organization) has been positively mentioned per tweet
+**Relative Negative Sentiment** - The number of times the entity (location, person, organization) has been negatively mentioned per tweet
+**Relative Sentiment of an Entity** - Relative Negative Sentiment/Relative Positive Sentiment
 
-This project is built around using markdown content to make a website. 
+## Team
 
-This is great for non-developers to work on. No experience with Ruby, Jekyll, Liquid, HTML or CSS required. Those are all used internally, but you don't need to worry about that.
+- Arundhati Balasubramaniam
+- Debargha Ganguly
+- Karan Handa
+- Medini Chopra
+- Soham De
+- **Debayan Gupta**
 
-This repo is super light. No config needed. You don't need to setup a theme or a layout. GitHub will figure that out and will apply its standard theme to your GitHub Pages site. So will it will have a clean, white, mobile-friendly site with a heading. The limitations are covered more on these pages, such as lack of a navbar. But you can still setup links to pages, as with the Menu below.
 
-The page you are currently viewing is `README.md` in the docs directory, with path set as `/` in the frontmatter. Alternatively, you can add `index.md` or `index.html` as your homepage. I just like how a README.md previews well in GitHub.
-
-
-## How to use this project
-
-- Template for a new project or docs site. Or use as a reference for existing projects.
-- Read the tutorial content under template notes.
-- View this live demo site.
+Partially funded by the [Mphasis Laboratory for Machine Learning and Computational Thinking](https://ml2ct.ashoka.edu.in/)
 
 
