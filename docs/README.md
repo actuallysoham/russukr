@@ -23,6 +23,14 @@ permalink: /
 <iframe width="1069" height="662" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTUnYQEEYX8H4_9CCMvLbGa-55uSlt_F-Z8ChKTiATpraU6-zjmn2ijwgVX3f2Dx7u-Z0SECfAGc-xR/pubchart?oid=1955571474&amp;format=interactive"></iframe>
 </div>
 
+<div align="center">
+<iframe width="873" height="537" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTUnYQEEYX8H4_9CCMvLbGa-55uSlt_F-Z8ChKTiATpraU6-zjmn2ijwgVX3f2Dx7u-Z0SECfAGc-xR/pubchart?oid=1592355022&amp;format=interactive"></iframe>
+</div>
+
+<div align="center">
+<iframe width="868" height="537" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTUnYQEEYX8H4_9CCMvLbGa-55uSlt_F-Z8ChKTiATpraU6-zjmn2ijwgVX3f2Dx7u-Z0SECfAGc-xR/pubchart?oid=1438445368&amp;format=interactive"></iframe>
+</div>
+
 ## About
 
 This project is built around using markdown content to make a website. 
