@@ -4,6 +4,14 @@ permalink: /
 # **Russia-Ukraine on Twitter**
 
 <div align="center">
+<iframe width="1070" height="663" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTUnYQEEYX8H4_9CCMvLbGa-55uSlt_F-Z8ChKTiATpraU6-zjmn2ijwgVX3f2Dx7u-Z0SECfAGc-xR/pubchart?oid=1045127682&amp;format=interactive"></iframe>
+</div>
+
+<div align="center">
+<iframe width="1026" height="635" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTUnYQEEYX8H4_9CCMvLbGa-55uSlt_F-Z8ChKTiATpraU6-zjmn2ijwgVX3f2Dx7u-Z0SECfAGc-xR/pubchart?oid=711446835&amp;format=interactive"></iframe>
+</div>
+
+<div align="center">
     <iframe width="1101" height="680" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTUnYQEEYX8H4_9CCMvLbGa-55uSlt_F-Z8ChKTiATpraU6-zjmn2ijwgVX3f2Dx7u-Z0SECfAGc-xR/pubchart?oid=711354723&amp;format=interactive"></iframe>
 </div>
 
