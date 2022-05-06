@@ -74,6 +74,7 @@ permalink: /
 - Karan Handa
 - Medini Chopra
 - Soham De
+- Tanvi Roy
 - **Debayan Gupta**
 
 
